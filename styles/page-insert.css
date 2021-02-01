@@ -1,0 +1,108 @@
+#form {
+  margin: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  color: rgba(0, 0, 0, 0.836);
+}
+
+#form h1 {
+  color: white;
+  margin-bottom: 20px;
+}
+
+#form form {
+  width: 100%;
+  background: linear-gradient(90deg, #9ebd13 0%, #008552 100%);
+  padding: 30px;
+  border-radius: 10px;
+  font-size: 25px;
+  display: flex;
+  flex-direction: column;
+}
+
+#form form fieldset:first-child {
+  margin-top: 0px;
+}
+
+#form form fieldset {
+  padding: 15px;
+  border: 1px solid rgba(255, 255, 255, 0.308);
+  border-radius: 10px;
+  margin: 25px 15px;
+  max-width: 100%;
+}
+
+#form form label,
+#form form input {
+  display: flex;
+  flex-direction: column;
+}
+
+#form form input {
+  padding: 10px;
+  font-size: 20px;
+  width: 50%;
+  margin-top: 10px;
+}
+
+#form form .instructions strong {
+  font-size: 21px;
+}
+
+#form form .instructions label {
+  margin-top: 30px;
+}
+
+#form form .instructions label:first-of-type {
+  margin-top: 20px;
+}
+
+#form form textarea {
+  width: 70%;
+  height: 200px;
+  margin-top: 10px;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+#form form button {
+  width: 300px;
+  height: 75px;
+  font-size: 20px;
+  border: 1px solid black;
+  border-radius: 20px;
+  transition: 200ms;
+  cursor: pointer;
+}
+
+#form form button:hover {
+  color: white;
+  box-shadow: 10px 10px 3px #40586eaf;
+  font-size: 25px;
+}
+
+fieldset div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+fieldset div input {
+  width: 5% !important;
+}
+
+fieldset div label {
+  font-size: 25px;
+}
+
+fieldset div div {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 20%;
+}

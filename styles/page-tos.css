@@ -1,0 +1,36 @@
+#policies {
+  margin: 150px 50px;
+  background: rgba(128, 128, 128, 0.404);
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  transition: 200ms;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#policies h1 {
+  margin-bottom: 15px;
+}
+
+#policies p {
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+#policies strong {
+  font-size: 25px;
+  color: #f03f09b6;
+}
+
+#policies h1:last-of-type {
+  color: #f03f09b6;
+  font-size: 35px;
+  margin-top: 15px;
+}
+
+#policies .alert {
+  color: white;
+}

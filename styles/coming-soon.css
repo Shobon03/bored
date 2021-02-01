@@ -1,0 +1,32 @@
+#coming {
+  margin: 200px 150px;
+  padding: 30px;
+  background: rgba(128, 128, 128, 0.404);
+  font-size: 20px;
+  border-radius: 20px;
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+}
+
+#coming a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  margin-top: 30px;
+  width: 250px;
+  height: 75px;
+  color: black;
+  background: linear-gradient(126.71deg, #13bb6b 0%, #faff00 100%), #c4c4c4;
+  font-size: 30px;
+  transition: 200ms;
+  border-radius: 20px;
+}
+
+#coming a:hover {
+  font-size: 35px;
+  box-shadow: 5px 5px 3px #6969588f;
+}

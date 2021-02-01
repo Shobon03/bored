@@ -1,0 +1,182 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+#info {
+  margin: 150px auto;
+  background: linear-gradient(180deg, #30cfd0 10.42%, #330867 85.42%);
+  border-radius: 20px;
+  display: flex;
+  width: 75vw;
+}
+
+#info div {
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+#info div p {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  margin: auto;
+}
+
+#info .site-info .button {
+  text-decoration: none;
+  font-weight: 900;
+  color: black;
+  padding: 10px;
+  background: #ffc700;
+  border-radius: 10px;
+  width: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+#info .site-info .text {
+  display: none;
+  position: absolute;
+  background-color: #ffc700;
+  color: black;
+  font-size: 25px;
+  top: 0;
+  left: 0;
+  margin-top: 350px;
+  margin-left: 493px;
+  border-radius: 10px;
+  padding: 50px;
+  transition: 50ms;
+  width: 300px;
+}
+
+#info .site-info .button:hover + .text {
+  display: block;
+}
+
+#message {
+  background: linear-gradient(180deg, #13bb6b 10.42%, #330867 85.42%);
+  border-radius: 20px;
+  width: 650px;
+  height: 300px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 30px;
+  color: white;
+}
+
+#message .texts {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 30px;
+  color: white;
+  width: 500px;
+  height: 300px;
+}
+
+#message .texts p {
+  font-size: 25px;
+  text-align: center;
+}
+
+#hobbies {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 30px;
+}
+
+#hobbies h1 {
+  margin-bottom: 20px;
+}
+
+#hobbie {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+  margin-top: 100px;
+  transition: 200ms;
+  width: 1000px;
+  height: 200px;
+}
+
+#hobbie .hobbie-image img {
+  width: 325px;
+  height: 250px;
+  border-radius: 10px;
+  margin-top: 1.5px;
+}
+
+#hobbie .hobbie-texts {
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+
+#hobbie .hobbie-texts a {
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: 900;
+}
+
+#hobbie .hobbie-texts a,
+#hobbie .hobbie-texts p {
+  margin: 0 50px;
+}
+
+#hobbie:hover {
+  background: rgb(73, 68, 68);
+  border-radius: 10px;
+}
+
+#hobbies h1 {
+  color: white;
+  font-size: 56px;
+  margin-top: 100px;
+}
+
+#buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 100px;
+}
+
+#buttons a {
+  text-decoration: none;
+  background: linear-gradient(161.07deg, #ffc700 0%, #0aa28f 100%), #c4c4c4;
+  border-radius: 15px;
+  color: black;
+  padding: 20px;
+  font-size: 25px;
+  transition: 200ms;
+  width: 300px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#buttons a:hover {
+  background: linear-gradient(90deg, #ffc700, #d13706);
+  box-shadow: 10px 10px 3px #f54a177a;
+  font-size: 30px;
+}
+
+@media (max-width: 1366px) {
+  #info img {
+    width: 100vh;
+  }
+}

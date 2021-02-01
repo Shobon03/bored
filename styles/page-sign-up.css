@@ -1,0 +1,131 @@
+#sign-up {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 115px 150px 0;
+}
+
+.sign {
+  background: linear-gradient(
+      124.52deg,
+      #a944ba 1.49%,
+      #f36600 49.41%,
+      #fd3232 98.33%
+    ),
+    #c4c4c4;
+  border-radius: 20px;
+  width: 550px;
+  height: 500px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 30px;
+}
+
+.sign h1 {
+  font-size: 35px;
+  font-weight: 900;
+}
+
+.sign form {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.camp {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-direction: column;
+  margin: 15px;
+}
+
+.camp .data {
+  width: 450px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.camp label {
+  margin-bottom: 5px;
+}
+
+.sign form p {
+  color: black;
+  text-align: center;
+  margin: auto;
+}
+
+.sign form p a {
+  color: white;
+}
+
+.sign button {
+  border: 1px solid black;
+  border-radius: 15px;
+  margin-top: 25px;
+  padding: 10px;
+  width: 150px;
+  font-weight: 700;
+  transition: 200ms;
+  color: black;
+  cursor: pointer;
+}
+
+.side {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 100px;
+}
+
+.side .login {
+  background: linear-gradient(161.07deg, #ffc700 0%, #0aa28f 100%), #c4c4c4;
+  border-radius: 20px;
+  width: 300px;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.side .login {
+  margin-top: 90px;
+}
+
+.side .login {
+  padding: 5px;
+}
+
+.side .login h1 {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.side .login a {
+  margin: auto;
+  padding: 10px;
+  border-radius: 15px;
+  border: 1px solid black;
+  text-decoration: none;
+  text-align: center;
+  font-weight: 700;
+  color: black;
+  transition: 200ms;
+  width: 100px;
+}
+
+.sign button:hover,
+.side .login a:hover {
+  color: white;
+  box-shadow: 10px 10px 3px #40586eaf;
+  font-size: 25px;
+}

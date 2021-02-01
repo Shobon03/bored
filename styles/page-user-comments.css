@@ -1,0 +1,16 @@
+.all-comments {
+  margin: auto;
+}
+
+.comment-contents {
+  margin-bottom: 20px;
+}
+
+.comment-contents small {
+  font-size: 15px;
+  color: rgba(255, 255, 255, 0.582);
+}
+
+.logout {
+  margin-top: 20px;
+}

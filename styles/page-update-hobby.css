@@ -1,0 +1,128 @@
+#update-hobby {
+  margin: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  color: rgba(0, 0, 0, 0.836);
+}
+
+#update-hobby h1 {
+  color: white;
+  margin-bottom: 20px;
+}
+
+#update-hobby form {
+  width: 100%;
+  background: linear-gradient(90deg, #9ebd13 0%, #008552 100%);
+  padding: 30px;
+  border-radius: 10px;
+  font-size: 25px;
+  display: flex;
+  flex-direction: column;
+}
+
+#update-hobby form fieldset:first-child {
+  margin-top: 0px;
+}
+
+#update-hobby form fieldset {
+  padding: 15px;
+  border: 1px solid rgba(255, 255, 255, 0.308);
+  border-radius: 10px;
+  margin: 25px 15px;
+}
+
+#update-hobby form label,
+#update-hobby form input {
+  display: flex;
+  flex-direction: column;
+}
+
+#update-hobby form input {
+  padding: 10px;
+  font-size: 20px;
+  width: 50%;
+  margin-top: 10px;
+}
+
+#update-hobby form .instructions strong {
+  font-size: 21px;
+}
+
+#update-hobby form .instructions label {
+  margin-top: 30px;
+}
+
+#update-hobby form .instructions label:first-of-type {
+  margin-top: 20px;
+}
+
+#update-hobby form textarea {
+  width: 70%;
+  height: 200px;
+  margin-top: 10px;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  max-width: 100%;
+}
+
+#update-hobby form button {
+  width: 300px;
+  height: 75px;
+  font-size: 20px;
+  border: 1px solid black;
+  border-radius: 20px;
+  transition: 200ms;
+  cursor: pointer;
+}
+
+#update-hobby form button:hover {
+  color: white;
+  box-shadow: 10px 10px 3px #40586eaf;
+  font-size: 25px;
+}
+
+fieldset div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+fieldset div input {
+  width: 5% !important;
+}
+
+fieldset div label {
+  font-size: 25px;
+}
+
+fieldset div div {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 20%;
+}
+
+#update-hobby a {
+  width: 300px;
+  height: 75px;
+  margin-top: 50px;
+  background: linear-gradient(90deg, #9ebd13 0%, #008552 100%);
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: 200ms;
+  border-radius: 20px;
+}
+
+#update-hobby a:hover {
+  font-size: 25px;
+  box-shadow: 10px 10px 3px #40586eaf;
+}

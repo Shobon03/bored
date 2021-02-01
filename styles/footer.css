@@ -1,0 +1,36 @@
+#about {
+  bottom: 0;
+  position: fixed;
+  width: 100vw;
+  background: linear-gradient(90deg, #ffc700, #d13706);
+  font-size: 15px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 10px;
+}
+
+#about div {
+  width: 200px;
+}
+
+#about a {
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+  transition: 200ms;
+}
+
+#about a:hover {
+  color: white;
+}
+
+#TOS {
+  display: flex;
+  flex-direction: column;
+}
+
+#TOS a {
+  margin: 5px;
+}

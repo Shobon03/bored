@@ -1,0 +1,53 @@
+.comments {
+  width: 70%;
+  color: white;
+  align-items: flex-start;
+  margin-top: 65px;
+}
+
+.all-comments {
+  margin-top: 20px;
+  background-image: linear-gradient(
+    to right top,
+    #004d7a,
+    #008793,
+    #00bf72,
+    #a8eb12
+  );
+  width: 65%;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+.message {
+  color: rgba(0, 0, 0, 0.747) !important;
+}
+
+.comment div {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: row;
+  width: 100%;
+}
+
+.comment-data {
+  display: block !important;
+  margin: auto 20px;
+  font-size: 20px;
+}
+
+.comment-data small {
+  font-size: 15px;
+  margin-left: 25px;
+  color: rgba(255, 255, 255, 0.582) !important;
+}
+
+.logout {
+  color: #ffa800;
+  font-weight: 900;
+  align-items: flex-end;
+  font-size: 20px;
+  transition: 200ms;
+  margin-right: 25px;
+}
