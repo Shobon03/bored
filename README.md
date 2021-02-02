@@ -17,7 +17,7 @@ Caso o usuário que entre no sistema seja um admin, poderá também cadastrar ou
 #### Página inical:
 ![](index.png)
 
-#### Página de categorias para agregar e tematizar os passatempos:
+#### Página de categorias para agrupar e tematizar os passatempos:
 ![](categorias.png)
 
 #### Página dos passatempos (da primeira catgoria -> _Receitas_):
