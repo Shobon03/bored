@@ -1,11 +1,15 @@
-# Bored
+# BORED
 
-O Bored é um site de Passatempos, feito em PHP, HTML e CSS puro.
+O BORED é um site de Passatempos, feito em _PHP_, _HTML_ e _CSS puro_.
 
-Foi feito como projeto da disciplina **Desenvolvimento de Sistemas Web** (DSW), ministrada pelo prof. Trojahn.
+Foi feito como projeto da disciplina **Desenvolvimento de Sistemas Web** (DSW), ministrada pelo prof. Trojahn, do Instituto Federal de São Paulo.
 Esse projeto foi feito por mim e meus outros três colegas. Quisemos fazer uma interface bonita e bem atual.
 
-### Imagens do site:
+O BORED é um site de passatempos para serem feitos em casa, uma vez que, desde o ano passado (2020), estamos em uma pandemia.
+No site é possível ver categorias a que um passatempo pertence, comentar em um passatempo (isso feito mediante login).
+Caso o usuário que entre no sistema seja um admin, poderá também cadastrar ou atualizar um passatempo e liberar ou barrar um comentário.
+
+### Algumas imagens do site:
 #### Página inical:
 ![](index.png)
 
