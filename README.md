@@ -2,11 +2,11 @@
 
 ## Olá 👋
 
-## Sobre o projeto 💻
-O BORED é um site de passatempos, feito em _PHP_, _HTML_ e _CSS puro_.
+Bem vindo ao repositório do site BORED.
 
-Foi feito como projeto da disciplina **Desenvolvimento de Sistemas Web** (DSW), ministrada pelo prof. Trojahn, do [Instituto Federal de São Paulo](https://scl.ifsp.edu.br/).
-Esse projeto foi feito por mim e meus outros três colegas. Quisemos fazer uma interface bonita e bem atual.
+## Sobre o projeto 💻
+O BORED é um projeto feito em _PHP_, _HTML_ e _CSS puro_. Foi desenvolvido para a disciplina **Desenvolvimento de Sistemas Web** (DSW), ministrada pelo prof. Trojahn, do [Instituto Federal de São Paulo](https://scl.ifsp.edu.br/).
+Esse projeto foi feito por mim e meus outros três amigos. Quisemos fazer uma interface bonita e bem atual.
 
 ## Premissa 💡
 O BORED é um site de _passatempos_ para serem feitos em casa, uma vez que, desde o ano passado (2020), estamos em uma pandemia.
