@@ -5,7 +5,7 @@
 Bem vindo ao repositório do site BORED.
 
 ## Sobre o projeto 💻
-O BORED é um projeto feito em _PHP_, _HTML_ e _CSS puro_. Foi desenvolvido para a disciplina **Desenvolvimento de Sistemas Web**, ministrada pelo prof. @Trojahn, do [Instituto Federal de São Paulo](https://scl.ifsp.edu.br/).
+O BORED é um projeto feito em _PHP_, _HTML_ e _CSS puro_. Foi desenvolvido para a disciplina **Desenvolvimento de Sistemas Web**, ministrada pelo prof. @Trojahn, no [Instituto Federal de São Paulo](https://scl.ifsp.edu.br/).
 Esse projeto foi feito por mim e meus outros três amigos. Quisemos fazer uma interface bonita e bem atual.
 
 ## Premissa 💡
@@ -25,6 +25,6 @@ Caso o usuário que entre no sistema seja um admin, poderá também cadastrar ou
 
 ## Agradecimentos 😃
 
-Agradecemos ao prof. Trojahn que nos ensinou todos os conceitos da linguagem PHP e pelo tempo disponibilizado para ajuda nos demais erros e desafios que enfrentamos ao longo dessa jornada.
+Agradecemos ao prof. @Trojahn que nos ensinou todos os conceitos da linguagem PHP e pelo tempo disponibilizado para ajuda nos demais erros e desafios que enfrentamos ao longo dessa jornada.
 
 #### E muito obrigado a você por ter dado uma olhadinha aqui! (っ˘ω˘ς)
