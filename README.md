@@ -1,17 +1,19 @@
 # BORED
 
-## Sobre o projeto
+## Olá 👋
+
+## Sobre o projeto 💻
 O BORED é um site de passatempos, feito em _PHP_, _HTML_ e _CSS puro_.
 
 Foi feito como projeto da disciplina **Desenvolvimento de Sistemas Web** (DSW), ministrada pelo prof. Trojahn, do [Instituto Federal de São Paulo](https://scl.ifsp.edu.br/).
 Esse projeto foi feito por mim e meus outros três colegas. Quisemos fazer uma interface bonita e bem atual.
 
-## Premissa
-O BORED é um site de _passatempos_ para serem feitos em casa, uma vez que, desde o ano passado (2020), estamos em uma pandemia.
+## Premissa 💡
+O BORED é um site de _passatempos_ 🖋 para serem feitos em casa, uma vez que, desde o ano passado (2020), estamos em uma pandemia 🔥.
 No site é possível ver categorias a que um passatempo pertence, comentar em um passatempo (isso feito mediante login).
 Caso o usuário que entre no sistema seja um admin, poderá também cadastrar ou atualizar um passatempo e liberar ou barrar um comentário.
 
-### Algumas imagens do site:
+### Algumas imagens do site 👀
 #### Página inical:
 ![](index.png)
 
@@ -21,4 +23,8 @@ Caso o usuário que entre no sistema seja um admin, poderá também cadastrar ou
 #### Página dos passatempos (da primeira catgoria -> _Receitas_):
 ![](passatempos.png)
 
-Muito obrigado por passar por aqui! (っ˘ω˘ς)
+## Agradecimentos 😃
+
+Agradecemos ao prof. Trojahn que nos ensinou todos os conceitos da linguagem PHP e pelo tempo disponibilizado para ajuda nos demais erros e desafios que enfrentamos ao longo dessa jornada.
+
+#### Muito obrigado por ter dado uma olhadinha aqui! (っ˘ω˘ς)
