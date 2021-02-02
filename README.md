@@ -27,4 +27,4 @@ Caso o usuário que entre no sistema seja um admin, poderá também cadastrar ou
 
 Agradecemos ao prof. Trojahn que nos ensinou todos os conceitos da linguagem PHP e pelo tempo disponibilizado para ajuda nos demais erros e desafios que enfrentamos ao longo dessa jornada.
 
-#### Muito obrigado por ter dado uma olhadinha aqui! (っ˘ω˘ς)
+#### E muito obrigado a você por ter dado uma olhadinha aqui! (っ˘ω˘ς)
