@@ -9,7 +9,7 @@ Foi feito como projeto da disciplina **Desenvolvimento de Sistemas Web** (DSW), 
 Esse projeto foi feito por mim e meus outros três colegas. Quisemos fazer uma interface bonita e bem atual.
 
 ## Premissa 💡
-O BORED é um site de _passatempos_ 🖋 para serem feitos em casa, uma vez que, desde o ano passado (2020), estamos em uma pandemia 🔥.
+O BORED é um site de _passatempos_ para serem feitos em casa, uma vez que, desde o ano passado (2020), estamos em uma pandemia.
 No site é possível ver categorias a que um passatempo pertence, comentar em um passatempo (isso feito mediante login).
 Caso o usuário que entre no sistema seja um admin, poderá também cadastrar ou atualizar um passatempo e liberar ou barrar um comentário.
 
