@@ -20,7 +20,7 @@ Caso o usuário que entre no sistema seja um admin, poderá também cadastrar ou
 #### Página de categorias para agrupar e tematizar os passatempos:
 ![](categorias.png)
 
-#### Página dos passatempos (da primeira catgoria -> _Receitas_):
+#### Página de todos os passatempos:
 ![](passatempos.png)
 
 ## Agradecimentos 😃
